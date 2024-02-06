@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xojaniyazov Mukam</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<img src="https://i.ibb.co/drrymQv/1.png" alt="mukam_777">
+<img src="https://i.ibb.co/XDgCPrQ/1.png" alt="mukam_777">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukam7" height="30" width="40" /></a>
