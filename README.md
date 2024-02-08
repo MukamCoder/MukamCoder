@@ -1,4 +1,4 @@
-# Hi 👋, I'm Xojaniyazov Mukam
+# Hi 👋  I'm Xojaniyazov Mukam
 
 A passionate frontend developer from Uzbekistan.
 
