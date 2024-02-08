@@ -48,11 +48,12 @@ A passionate frontend developer from Uzbekistan.
 </div>
 
 ## Certifications 📜
-<a align="left" href="https://upskill.us.qwasar.io/certificates/MTI1Mi14b2phbml5b19tLW1heS0yMDIxLTIwLWYwZmE=">
-    Qwasar.io Slikon Valley | Astrum IT Academy
-</a>
+<li>    
+<a align="left" href="https://upskill.us.qwasar.io/certificates/MTI1Mi14b2phbml5b19tLW1heS0yMDIxLTIwLWYwZmE=">Qwasar.io Slikon Valley | Astrum IT Academy</a>
+</li>
 <br>
-<a align="left" href="https://i.ibb.co/xXbJBz7/Xojaniyazov-Mukam.jpg">
-    Najot Talim
-</a>
+<li>
+<a align="left" href="https://i.ibb.co/xXbJBz7/Xojaniyazov-Mukam.jpg">Najot Talim</a>
+</li>
+
 
