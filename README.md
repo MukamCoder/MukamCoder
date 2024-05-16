@@ -15,7 +15,7 @@ A passionate frontend developer from Uzbekistan.
 ## Connect with Me
 
 <div align="left">
-  <a href="https://t.me/mukam_777" target="_blank" rel="noreferrer">
+  <a href="https://t.me/mukam_7" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.linkedin.com/in/mukam-xojaniyazov-35a216293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
