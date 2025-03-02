@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xojaniyazov Mukam  
 
-🚀 Passionate **Frontend Developer** | 📍 Uzbekistan  
+🚀 Passionate **Frontend Developer & Mentor** | 📍 Uzbekistan  
 
 ---
 
@@ -9,31 +9,13 @@
 - 👨‍💻 Currently working with **JavaScript**, **React**, **Next.js**, and more.  
 - 📚 Exploring **Full-Stack Development** to expand my expertise.  
 - 🎯 Future Goals: Master **backend technologies** and become a **Full-Stack Developer**.  
+- 🏫 **Mentor at IT MASTER SCHOOL** – Teaching **Frontend Development** for almost a year.  
 
 ---
 
 ## 🎯 Hobbies  
 
 ⚽ Football | 💻 Coding | 🏓 Ping Pong  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="left">
-  <a href="https://t.me/mukamcoder" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.linkedin.com/in/mukamcoder/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/mukamcoder/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:hojaniyazowmukam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 ---
 
