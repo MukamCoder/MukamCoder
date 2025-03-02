@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xojaniyazov Mukam 
+# 👋 Hi, I'm Xojaniyazov Mukam  
 
 🚀 Passionate **Frontend Developer** | 📍 Uzbekistan  
 
@@ -9,20 +9,25 @@
 - 👨‍💻 Currently working with **JavaScript**, **React**, **Next.js**, and more.  
 - 📚 Exploring **Full-Stack Development** to expand my expertise.  
 - 🎯 Future Goals: Master **backend technologies** and become a **Full-Stack Developer**.  
-- ⚡ Fun Facts: Open & friendly 😊 | Love **football** & **coding**!  
+
+---
+
+## 🎯 Hobbies  
+
+⚽ Football | 💻 Coding | 🏓 Ping Pong  
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://t.me/mukam_7" target="_blank">
+  <a href="https://t.me/mukamcoder" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://www.linkedin.com/in/mukam-xojaniyazov-35a216293" target="_blank">
+  <a href="https://www.linkedin.com/in/mukamcoder/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/7mukam/" target="_blank">
+  <a href="https://www.instagram.com/mukamcoder/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:hojaniyazowmukam@gmail.com">
@@ -53,6 +58,9 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/DaisyUI-EC4899?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="DaisyUI">
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
+  <img src="https://img.shields.io/badge/Shadcn-181717?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design">
 </p>
 
 ### ⚙️ Backend & Tools  
@@ -70,18 +78,8 @@
 
 ## 📜 Certifications  
 
-- 🎓 **[Qwasar.io Silicon Valley | Astrum IT Academy](https://upskill.us.qwasar.io/certificates/MTI1Mi14b2phbml5b19tLW1heS0yMDIxLTIwLWYwZmE=)**
-- 🎓 **[Najot Ta'lim](https://i.ibb.co/xXbJBz7/Xojaniyazov-Mukam.jpg)**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukamCoder&show_icons=true&theme=radical" alt="Mukam's GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukamCoder&theme=radical" alt="Mukam's GitHub Streak">
-</p>
+- 🎓 **[Astrum & Qwasar](https://photos.google.com/share/AF1QipMBqn-6NkRzzZIC1yi6hoNHkUawn26atNAdpPus7yTzIhMgShYMg2HPhCiBO9dX_Q?key=T3BoOE54Rmh4S0NkSkpjbUszTFF5bVJFLVk5Z3JR)**  
+- 🎓 **[Najot Ta'lim](https://photos.google.com/share/AF1QipObqnLmifThJSG19zAFmJUvZB6FK1hUgKbEmJ2TZNtlgsx7p_-ZAiDOtWIMlNnhig?key=cFo5elU5dGRQejlxaE4wREpyQThxcDJ2dS1FUXNn)**  
 
 ---
 
